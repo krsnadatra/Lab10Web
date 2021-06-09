@@ -1,9 +1,10 @@
 # Praktikum 10
 # Pemrograman Web
 ```
-Alfansha Abiftyo Hadyatama
-311910321
+Gede Krishna
+311910429
 TI.19.A.2
+Pemrograman Web
 ```
 
 ## LANGKAH 1
@@ -24,10 +25,6 @@ Pastikan web server Apache dan MySQL server sudah di jalankan.
 
 <img width="960" alt="4" src="https://user-images.githubusercontent.com/56286071/121205546-f3c50f80-c8a1-11eb-91f5-814087d9c0dd.png">
 
-### Hasil
-
-<img width="960" alt="5" src="https://user-images.githubusercontent.com/56286071/121205844-2ff87000-c8a2-11eb-8c56-6409fb8ba19f.png">
-
 ## LANGKAH 4
 ### Buat file baru dengan nama `form.php` pada folder `lab10_php_oop`
 
@@ -40,6 +37,3 @@ Pastikan web server Apache dan MySQL server sudah di jalankan.
 
 <img width="960" alt="8" src="https://user-images.githubusercontent.com/56286071/121206683-dfcddd80-c8a2-11eb-9569-67291951fc84.png">
 
-### Hasil
-
-<img width="960" alt="9" src="https://user-images.githubusercontent.com/56286071/121206715-e6f4eb80-c8a2-11eb-88da-0fe6e11cb4bc.png">
